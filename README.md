@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I found it challenging to debug at first due to the new coding environment but later was able to make full use of the logs to assist me in the debugging process.
 
 ## License
 
